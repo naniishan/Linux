@@ -1,0 +1,11 @@
+Task :
+
+* Read two numbers (eg: x and y) from the user and print the table of x upto y rows.
+
+Output should be like below :
+
+Enter two numbers
+10 2
+
+10 * 1 = 10
+10 * 2 = 20
