@@ -1,1 +1,7 @@
 
+
+TASK :
+
+* Read a path from the user
+* Fetch all the files (whose size is greater than 500 bytes) in that path
+* Create a HTML report which contains file names , file path and their size.
